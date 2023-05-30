@@ -1,3 +1,4 @@
 .Rhistory
 *.dat
 /results
+.Rproj.user
